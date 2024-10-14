@@ -150,6 +150,7 @@
    - *Javascript*
    - *Lisp*
    - *Prolog*
+   - *Python*
 
    You can check the following link:
    https://es.wikipedia.org/wiki/Paradigma_de_programaci%C3%B3n
